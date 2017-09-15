@@ -25,4 +25,4 @@ with open('make_opc.in','a') as f:
 """
 with open('make_opc.in','r') as f:
     for command in f.readlines():
-	subprocess.call(["echo '{}'| /usr/local/Cloudy/c13.03/source/cloudy.exe".format(command)], shell=True)
+	subprocess.call(["echo '{}'| /usr/local/Cloudy/c17.00/source/cloudy_ic418.exe".format(command)], shell=True)
