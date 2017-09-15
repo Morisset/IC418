@@ -1,0 +1,4 @@
+# size distribution file for standard MRN size distribution
+2010403 # magic number for version control
+ssize  # choices are SSIZE, POWER, EXP1, EXP2, EXP3
+0.0077  # grain size (micron)

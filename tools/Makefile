@@ -1,4 +1,4 @@
-CLOUDY = /home/vero/Cloudy/c13.05/source/cloudy.exe
+CLOUDY = ${CLOUDY_EXE}
 
 SRC = $(wildcard ${name}*.in)
 OBJ = $(SRC:.in=.out)
