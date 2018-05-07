@@ -1,5 +1,5 @@
 compile grains "graphite.rfi" "small2.szd" 10
-compile grains "be1-amcarb.rfi" "big2.szd" 10
+compile grains "be1-amcarb.rfi" "big6.szd" 10
 compile grains "MgS-be111s1.rfi" "size1.szd" 01
 compile grains "SiC-Pg111s1.rfi" "size1.szd" 01
 compile grains "MgS-be311s1.rfi" "size1.szd" 01
